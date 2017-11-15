@@ -4,10 +4,10 @@
 
 ## Project Team:
 
-⋅⋅* Amina Bintory 
-⋅⋅* David Lor 
-⋅⋅* Long Pham
-⋅⋅* Kaiwen Zheng
+* Amina Bintory 
+* David Lor 
+* Long Pham
+* Kaiwen Zheng
 
 ## Need Statement
 
